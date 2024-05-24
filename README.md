@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm Josh Stroud, an engineer, hacker, and founder in Palo Alto, California. 
+
+I've built all sorts of apps, demos, and guides in this GitHub.
+
+Explore my work. DMs are open.
 <!--
 **joshagilend/joshagilend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
