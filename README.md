@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 
 
 I'm Josh Stroud, an engineer, hacker, and founder in Palo Alto, California. 
 
