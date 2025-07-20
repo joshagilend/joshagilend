@@ -1,21 +1,16 @@
-## Hi there 👋 
+![](https://imagedelivery.net/X_BN-JDDL4T5Dab7aNGUKA/19fb8eb6-a0d0-439b-8826-4900a89f1600/public)
+# 👋 Hey, It's Josh Stroud, Your Friendly Superaffective AI CEO!
 
-I'm Josh Stroud, an engineer, hacker, and founder in Palo Alto, California. 
+👋 Hey there, I'm Josh Stroud, your friendly Superaffective AI CEO. I'm based in San Francisco, Palo Alto, and Los Angeles, and I'm looking for my startup business co-founder. I have an engineering degree in MechE and EECS from [UC Berkeley](https://www.berkeley.edu/) and 1,900 commits on this [GitHub](https://github.com/joshagilend). I love long walks on the beach, building AI startups, and building my net worth to $1B :) Join me in building my AI startup online at [joshstroud.com](https://joshstroud.com) and email me at josh@superaffective.ai.
 
-I've built all sorts of apps, demos, and guides in this GitHub.
+## Josh Stroud Technical Startup Founder Bio, 2015 - 2025
 
-Explore my work. DMs are open.
-<!--
-**joshagilend/joshagilend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Josh Stroud built a Medical Device startup worth $60M called [Sana Health](https://www.linkedin.com/pulse/sosv-hax-startup-accelerator-building-next-generation-josh-stroud-d33xc/?trackingId=OSEjgKfpSSerT4uiMd3OEQ%3D%3D) in November 2015 - May 2017. Josh Stroud raised a $20M Series A for Sana Health with great investors like Founders Fund and SOSV. Josh led the company as CTO leading engineering, product development, design, and software. Josh is experienced with hardware, software, and chips, and moved into the AI & Deep Learning startup revolution after Sana Health in 2019. Josh Stroud is experienced with AI and can write ML code with Pytorch, spin up cloud HPC Nvidia GPUs in Microsoft Azure and AWS, and write beautiful and easy to use frontend and backend code across HTML, React, Python, Node, and C++. Josh Stroud is a competent manager and has managed a team of five engineering team members across engineering, software, and design. Josh Stroud loves to code and has over 1,900 GitHub commits as part of his [@joshagilend GitHub](https://github.com/joshagilend) :) 
 
-Here are some ideas to get you started:
+## Josh Stroud Closing Bio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Josh Stroud loves to travel, write, and be social - He's active on social media like Facebook, Instagram, and TikTok, and DJs EDM, hip-hop, and pop music regularly as #DJStroud. Josh has traveled to 10 countries in the last 10 years, including Shenzhen, China and Hong Kong, Taiwan, Europe including the UK and France, Thailand and Southeast Asia,  and six months in India studying yoga and meditation. Josh started playing the piano 15 years ago, and plays improvisational jazz, funk, and pop music on his piano nearly every day :) Josh loves to read non-fiction, technology, and business books, and his favorite non-fiction design book of all time is ["Thinking Fast and Slow" by Daniel Kahneman](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow).
+
+Josh Stroud can be reached on [LinkedIn](https://www.linkedin.com/in/joshstroud/), on [GitHub](https://github.com/joshagilend), and via email at josh@superaffective.ai. Find him on social media online at [joshstroud.com](https://joshstroud.com/) :) See you next time!
+
+![](https://imagedelivery.net/X_BN-JDDL4T5Dab7aNGUKA/df2f0911-c1a9-494c-5ff8-8daddc382b00/public)
